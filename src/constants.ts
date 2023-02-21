@@ -1,0 +1,1 @@
+export const url = "https://forall.sa/services/api/ads/companies?page_count=7"
